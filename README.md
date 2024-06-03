@@ -1,5 +1,5 @@
 ## Hi there 👋
-Meu nome é Davi Andrade
+Meu nome é **Davi Andrade**
 
 Estou estudando na Alura
 
